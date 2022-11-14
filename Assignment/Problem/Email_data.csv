@@ -1,0 +1,53 @@
+Type,Amount,Category,Customer_Id,Invoice,Customer,Date,Location
+Monthly Recurring Charges,$915.00 ,Location Report,158637,102836556,ABC High School ,4/30/2018,"Location: 302 N Midway Dr, ABC "
+Taxes & Fees,$1.47 ,Location Report,158637,102836556,ABC High School ,4/30/2018,"Location: 302 N Midway Dr, ABC "
+Monthly Recurring Charges,$0.00 ,Location Report,158637,102836556,ABC High School ,4/30/2018,Location: NWN Corporation - ABC High School 
+Other Charges,$45.72 ,Location Report,158637,102836556,ABC High School ,4/30/2018,Location: NWN Corporation - ABC High School 
+Taxes & Fees,$4.54 ,Location Report,158637,102836556,ABC High School ,4/30/2018,Location: NWN Corporation - ABC High School 
+Monthly Recurring Charges,$915.00 ,Location Report,158637,103917751,ABC High School ,5/31/2018,"Location: 302 N Midway Dr, ABC "
+Taxes & Fees,$1.47 ,Location Report,158637,103917751,ABC High School ,5/31/2018,"Location: 302 N Midway Dr, ABC "
+Monthly Recurring Charges,$0.00 ,Location Report,158637,103917751,ABC High School ,5/31/2018,Location: NWN Corporation - ABC High School 
+Other Charges,$45.72 ,Location Report,158637,103917751,ABC High School ,5/31/2018,Location: NWN Corporation - ABC High School 
+Taxes & Fees,$4.54 ,Location Report,158637,103917751,ABC High School ,5/31/2018,Location: NWN Corporation - ABC High School 
+Federal Universal Service Fund Fee,$0.42 ,Other Charges,158637,95719933,ABC High School ,9/30/2017,Location: NWN Corporation - ABC High School 
+Administrative Service Fee,$49.11 ,Other Charges,158637,95719933,ABC High School ,9/30/2017,Location: NWN Corporation - ABC High School 
+Carrier Cost Recovery Fee,$15.92 ,Other Charges,158637,95719933,ABC High School ,9/30/2017,Location: NWN Corporation - ABC High School 
+Federal Universal Service Fund Fee,$0.33 ,Other Charges,158637,96404995,ABC High School ,10/31/2017,Location: NWN Corporation - ABC High School 
+Administrative Service Fee,$35.00 ,Other Charges,158637,96404995,ABC High School ,10/31/2017,Location: NWN Corporation - ABC High School 
+Carrier Cost Recovery Fee,$10.38 ,Other Charges,158637,96404995,ABC High School ,10/31/2017,Location: NWN Corporation - ABC High School 
+Access - 20 Mbps,$187.20 ,Recurring Charges,158637,95719933,ABC High School ,9/30/2017,Location: NWN Corporation - ABC High School 
+Best Effort CoSP,$0.00 ,Recurring Charges,158637,95719933,ABC High School ,9/30/2017,Location: NWN Corporation - ABC High School 
+Equipment - Tier A: 3 Year,$10.13 ,Recurring Charges,158637,95719933,ABC High School ,9/30/2017,Location: NWN Corporation - ABC High School 
+First CoS,$16.00 ,Recurring Charges,158637,95719933,ABC High School ,9/30/2017,Location: NWN Corporation - ABC High School 
+INOC - Basic,$0.00 ,Recurring Charges,158637,95719933,ABC High School ,9/30/2017,Location: NWN Corporation - ABC High School 
+OneNet,$80.00 ,Recurring Charges,158637,95719933,ABC High School ,9/30/2017,Location: NWN Corporation - ABC High School 
+Port  -  20  Mbps,$184.00 ,Recurring Charges,158637,95719933,ABC High School ,9/30/2017,Location: NWN Corporation - ABC High School 
+Second CoS,$10.67 ,Recurring Charges,158637,95719933,ABC High School ,9/30/2017,Location: NWN Corporation - ABC High School 
+OneCentral Portal,$0.00 ,Recurring Charges,158637,95719933,ABC High School ,9/30/2017,Location: NWN Corporation - ABC High School 
+Access - 20 Mbps,$351.00 ,Recurring Charges,158637,95719933,ABC High School ,9/30/2017,Location: NWN Corporation - ABC High School 
+Best Effort CoSP,$0.00 ,Recurring Charges,158637,95719933,ABC High School ,9/30/2017,Location: NWN Corporation - ABC High School 
+Equipment - Tier A: 3 Year,$19.00 ,Recurring Charges,158637,95719933,ABC High School ,9/30/2017,Location: NWN Corporation - ABC High School 
+First CoS,$30.00 ,Recurring Charges,158637,95719933,ABC High School ,9/30/2017,Location: NWN Corporation - ABC High School 
+INOC - Basic,$0.00 ,Recurring Charges,158637,95719933,ABC High School ,9/30/2017,Location: NWN Corporation - ABC High School 
+OneNet,$150.00 ,Recurring Charges,158637,95719933,ABC High School ,9/30/2017,Location: NWN Corporation - ABC High School 
+Port  -  20  Mbps,$345.00 ,Recurring Charges,158637,95719933,ABC High School ,9/30/2017,Location: NWN Corporation - ABC High School 
+Second CoS,$20.00 ,Recurring Charges,158637,95719933,ABC High School ,9/30/2017,Location: NWN Corporation - ABC High School 
+OneCentral Portal,$0.00 ,Recurring Charges,158637,95719933,ABC High School ,9/30/2017,Location: NWN Corporation - ABC High School 
+Access - 20 Mbps,$351.00 ,Recurring Charges,158637,96404995,ABC High School ,10/31/2017,Location: NWN Corporation - ABC High School 
+Best Effort CoSP,$0.00 ,Recurring Charges,158637,96404995,ABC High School ,10/31/2017,Location: NWN Corporation - ABC High School 
+Equipment - Tier A: 3 Year,$19.00 ,Recurring Charges,158637,96404995,ABC High School ,10/31/2017,Location: NWN Corporation - ABC High School 
+First CoS,$30.00 ,Recurring Charges,158637,96404995,ABC High School ,10/31/2017,Location: NWN Corporation - ABC High School 
+INOC - Basic,$0.00 ,Recurring Charges,158637,96404995,ABC High School ,10/31/2017,Location: NWN Corporation - ABC High School 
+OneNet,$150.00 ,Recurring Charges,158637,96404995,ABC High School ,10/31/2017,Location: NWN Corporation - ABC High School 
+Port  -  20  Mbps,$345.00 ,Recurring Charges,158637,96404995,ABC High School ,10/31/2017,Location: NWN Corporation - ABC High School 
+Second CoS,$20.00 ,Recurring Charges,158637,96404995,ABC High School ,10/31/2017,Location: NWN Corporation - ABC High School 
+OneCentral Portal,$0.00 ,Recurring Charges,158637,96404995,ABC High School ,10/31/2017,Location: NWN Corporation - ABC High School 
+Federal Excise Tax,$1.95 ,Taxes,158637,95719933,ABC High School ,9/30/2017,Location: NWN Corporation - ABC High School 
+Sales Tax,$6.81 ,Taxes,158637,95719933,ABC High School ,9/30/2017,Location: NWN Corporation - ABC High School 
+Federal Excise Tax,$1.36 ,Taxes,158637,96404995,ABC High School ,10/31/2017,Location: NWN Corporation - ABC High School 
+Sales Tax,$4.65 ,Taxes,158637,96404995,ABC High School ,10/31/2017,Location: NWN Corporation - ABC High School 
+Federal Universal Service Fund Fee,$0.30 ,Other Charges,154912,89837673,XYZ County ,4/23/2017,Location: NWN Corporation - XYZ County 
+Administrative Service Fee,$35.00 ,Other Charges,154912,89837673,XYZ County ,4/23/2017,Location: NWN Corporation - XYZ County 
+Carrier Cost Recovery Fee,$11.22 ,Other Charges,154912,89837673,XYZ County ,4/23/2017,Location: NWN Corporation - XYZ County 
+Federal Excise Tax,$1.39 ,Taxes,154912,89837673,XYZ County ,4/23/2017,Location: NWN Corporation - XYZ County 
+Sales Tax,$7.22 ,Taxes,154912,89837673,XYZ County ,4/23/2017,Location: NWN Corporation - XYZ County 
